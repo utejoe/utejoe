@@ -1,4 +1,4 @@
-![logo](https://github.com/utejoe/utejoe/blob/main/github_banner.jpg)
+![logo](https://github.com/utejoe/utejoe/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm utejoe</h1>
 <h3 align="center">Tech Guru, Building Robust and Scalable Software Solutions</h3>
 <img align="right" alt="coding" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif"
