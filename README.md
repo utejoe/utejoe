@@ -1,11 +1,7 @@
 ![logo](https://github.com/utejoe/utejoe/blob/main/github_banner.jpg)
-<h1 align="center">Hi 👋, I'm utejoe (Uyi Obazee)</h1>
+<h1 align="center">Hi 👋, I'm utejoe</h1>
 <h3 align="center">Tech Guru, Building Robust and Scalable Software Solutions</h3>
-
-<img align="right" alt="coding" width="400" src="https://gifer.com/en/33Gq">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utejoe&label=Profile%20views&color=0e75b6&style=flat" alt="utejoe" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif"
 <p align="left"> <a href="https://twitter.com/joseph61374337" target="blank"><img src="https://img.shields.io/twitter/follow/joseph61374337?logo=twitter&style=for-the-badge" alt="joseph61374337" /></a> </p>
 
 - 🔭 I’m currently working on **projects in alx schools**
@@ -38,8 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/utejoe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="utejoe" /></a><a href="https://ko-fi.com/utejoe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="utejoe" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utejoe&show_icons=true&locale=en&layout=compact" alt="utejoe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utejoe&show_icons=true&locale=en" alt="utejoe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utejoe&" alt="utejoe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utejoe&show_icons=true&locale=en&layout=compact" alt="utejoe" /></p>
