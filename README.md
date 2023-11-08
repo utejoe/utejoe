@@ -4,9 +4,11 @@
 <img align="centre" alt="coding" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif"
 <p align="left"> <a href="https://twitter.com/joseph61374337" target="blank"><img src="https://img.shields.io/twitter/follow/joseph61374337?logo=twitter&style=for-the-badge" alt="joseph61374337" /></a> </p>
 
-- 🔭 I’m currently working on **projects in alx schools**
+- 🔭 I have a certfificate in full stack software engineering
+-  check one of my fullstack development on: https://www.youtube.com/watch?v=xnq2lnHl654
+-  here is the website of the social media app: https://judysphere.netlify.app/
 
-- 🌱 I’m currently learning **Backend developments**
+- 🌱 I’m working on many projects in both **front end & Backend developments**
 
 - 👯 I’m looking to collaborate on **cyber security projects**
 
@@ -14,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/utejoe](https://github.com/utejoe)
 
-- 💬 Ask me about **Front-end development, website creation, app creation,**
+- 💬 Ask me about **devops, backend, Front-end development, website creation, app creation,**
 
-- 📫 How to reach me **utejoe.ju@gmail.com**
+- 📫 How to reach me **utejoe.ju@gmail.com** and https://uyiobazeeportfolio.netlify.app/
 
 - ⚡ Fun fact **i really can make you laugh**
 
